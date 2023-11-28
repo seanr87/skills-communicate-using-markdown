@@ -5,3 +5,4 @@ content
 intro
 ### this is header 3
 ###### header 6
+![from a seed to a pinecone](https://i.imgur.com/vDgt9av.jpeg) 
