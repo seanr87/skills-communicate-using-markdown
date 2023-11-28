@@ -6,3 +6,11 @@ intro
 ### this is header 3
 ###### header 6
 ![from a seed to a pinecone](https://i.imgur.com/vDgt9av.jpeg) 
+
+``` javascript
+var myVar = "Hello, world!";
+```
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
